@@ -9,7 +9,7 @@ Hi there! My name is Phạm Minh Anh, i'm a student at Saigon Technology Univers
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhamMinhAnh1106&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamMinhAnh1106&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamMinhAnh1106&repo=github-readme-stats)](https://github.com/PhamMinhAnh1106/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhamMinhAnh1106&repo=DoAn-SpringBoot)](https://github.com/PhamMinhAnh1106/DoAn-SpringBoot)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PhamMinhAnh1106&icon=0&color=0)](https://visitcount.itsvg.in)
