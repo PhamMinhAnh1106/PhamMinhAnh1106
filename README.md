@@ -1,5 +1,5 @@
 # ✍️About me
-Hi there! My name is Phạm Minh Anh, i'm a student at Saigon Technology University (STU), just starting my journey in web programming, with the goal of becoming a skilled full-stack developer.
+Hi there! My name is Phạm Minh Anh, i'm a student at Saigon Technology University - STU, just starting my journey in web programming, with the goal of becoming a skilled full-stack developer.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pmanh116) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phamminhanh1106/) 
