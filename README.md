@@ -15,8 +15,8 @@ Hi there! My name is Phạm Minh Anh, i'm a student at Saigon Technology Univers
     </td>
     <td >
       
-  [![Top Langs](https://PhamMinhAnh1106.vercel.app/api/top-langs/?username=PhamMinhAnh1106&layout=pie)](https://github.com/PhamMinhAnh1106/PhamMinhAnh1106) 
-    </td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhamMinhAnh1106&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+</td>
   </tr>
  
 </table>
